@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3 Sesuai</name>
+   <tag></tag>
+   <elementGuidId>66915e65-bd6e-45a6-97fb-eb08b8604910</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yItem-RK5-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yItem-RK5-5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1ba2c44-a98a-478d-9fb9-4763498fba1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-true css-au9xn6</value>
+      <webElementGuid>f87cbda3-27d4-4ea2-ac33-0b99e85f80be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yItem-RK5-5</value>
+      <webElementGuid>96f9c539-839e-401a-9bf5-9287e7adf4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yItem-RK5-5&quot;)</value>
+      <webElementGuid>6b66b0a4-d53f-40a6-a416-59074de61ced</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='yItem-RK5-5']</value>
+      <webElementGuid>0cdb86e1-c1c2-4fdb-a34c-1482f47918b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='talita-container']/div/div[3]/div[3]/div[6]</value>
+      <webElementGuid>2b59e011-6a7c-4bbd-9e26-2e0e08020eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instruksi'])[1]/following::div[34]</value>
+      <webElementGuid>0acee6b5-ea98-4b1e-9ac3-e71b5b2992be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[21]</value>
+      <webElementGuid>d9429899-069f-4be7-b261-ad80c47745f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[21]</value>
+      <webElementGuid>61da7659-9800-4885-b1f5-bcb252dceea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]</value>
+      <webElementGuid>995a23d9-36eb-40f3-8a56-1bc97b52ff79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'yItem-RK5-5']</value>
+      <webElementGuid>ec8f0c20-dbfb-4994-ada6-050b18f0309d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3 Tidak Sesuai</name>
+   <tag></tag>
+   <elementGuidId>6be79087-e8e5-4b1a-82be-f1e7b270458f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yItem-TPK4-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yItem-TPK4-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b63e3e2-97f5-46a2-b831-0bc20df3c8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-true css-au9xn6</value>
+      <webElementGuid>91b03aa6-0f4d-473b-ac60-633aa9b93e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yItem-TPK4-2</value>
+      <webElementGuid>fdb0f288-f3c1-4193-92ea-37f03ea52cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yItem-TPK4-2&quot;)</value>
+      <webElementGuid>f0817637-289e-408d-a6b2-96d0b9079ac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='yItem-TPK4-2']</value>
+      <webElementGuid>3e096197-5e53-4f23-aa2a-6a363e1a5876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='talita-container']/div/div[3]/div[3]/div[3]</value>
+      <webElementGuid>a1a05109-b91a-4dc2-a72a-9e8e17d29d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instruksi'])[1]/following::div[31]</value>
+      <webElementGuid>c12a693e-d9d9-48e3-bbe1-8fbca5ee0e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[1]/preceding::div[14]</value>
+      <webElementGuid>36b21179-51c6-4de7-ae3e-97893c4f3fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[16]</value>
+      <webElementGuid>67eae0d6-8a35-4242-9816-48a40529d358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[3]</value>
+      <webElementGuid>f6d76ce2-c8cb-4719-a44f-5510fae3af88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'yItem-TPK4-2']</value>
+      <webElementGuid>7dcf4dbf-33b0-41c1-bcab-96269d072649</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

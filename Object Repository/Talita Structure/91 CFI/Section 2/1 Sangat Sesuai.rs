@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1 Sangat Sesuai</name>
+   <tag></tag>
+   <elementGuidId>c7200946-b0d5-47f5-8d40-c9358fe8b497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yItem-OK6-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yItem-OK6-6']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>956ff511-1979-425e-89a9-25e30e98e4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-true css-au9xn6</value>
+      <webElementGuid>e81ed879-fe40-4dde-90f9-6e377f9614fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yItem-OK6-6</value>
+      <webElementGuid>337b49fe-8edb-4bf0-9c81-8d9df68b72ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yItem-OK6-6&quot;)</value>
+      <webElementGuid>688934a3-1fda-4ca7-8c86-515f6a5218e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='yItem-OK6-6']</value>
+      <webElementGuid>61db9840-3b0c-4785-b0b5-f2c6ee150a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='talita-container']/div/div[3]/div/div[7]</value>
+      <webElementGuid>6a42c5f7-cca4-48e3-a3f6-4f96567743ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instruksi'])[1]/following::div[19]</value>
+      <webElementGuid>0633a2df-0a63-436b-8107-e6924b24297c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[36]</value>
+      <webElementGuid>53b70856-9730-4ef1-9fb7-ae4727527186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[36]</value>
+      <webElementGuid>6365005a-34c7-4031-befa-e1f1fde8ce61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[7]</value>
+      <webElementGuid>bab26017-cbb4-4b49-8e45-c2fcb4c809ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'yItem-OK6-6']</value>
+      <webElementGuid>da89e9d1-6f8c-4ba2-9fe8-fabd62d570b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

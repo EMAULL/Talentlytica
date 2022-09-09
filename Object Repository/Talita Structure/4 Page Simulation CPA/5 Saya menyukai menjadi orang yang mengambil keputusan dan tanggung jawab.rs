@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>5 Saya menyukai menjadi orang yang mengambil keputusan dan tanggung jawab</name>
+   <tag></tag>
+   <elementGuidId>29b6987b-ce7e-4744-af3c-b63db09f16c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Dnd_border4__p_y1c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnd-container']/div/div/ul/div/li[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cbc74e01-7753-468a-81a8-0931d731010a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Dnd_border4__p_y1c</value>
+      <webElementGuid>5fefd2de-174e-4a85-b89c-c532ce724a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnd-container&quot;)/div[1]/div[@class=&quot;Dnd_container1__ygxR8&quot;]/ul[@class=&quot;Dnd_dragList__gQOY_&quot;]/div[1]/li[5]/div[@class=&quot;MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-1cy6rd&quot;]/div[@class=&quot;Dnd_border4__p_y1c&quot;]</value>
+      <webElementGuid>72b45a12-b83d-4311-a3d6-e3b908e4ee11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnd-container']/div/div/ul/div/li[5]/div/div</value>
+      <webElementGuid>a1e1b23f-9b4d-4377-ab0f-27a3ced44536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div</value>
+      <webElementGuid>ddd765a8-fe4c-4a62-a372-2ee1b787ef78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

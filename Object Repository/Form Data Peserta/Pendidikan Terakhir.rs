@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pendidikan Terakhir</name>
+   <tag></tag>
+   <elementGuidId>9428dc55-b244-4990-b07e-1a8608c54bb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='body']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>39b8c86b-0a43-4e11-a0ea-08cda05d8f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>31b3a640-a5ed-47a5-8ed3-2f58064f2f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDData PesertaSebelum mengerjakan tes dari kami, harap untuk mengisi beberapa informasi di bawah iniJenis KelaminPerempuanLaki-lakiTanggal Lahir12/12/2000Pendidikan TerakhirSD / MIKewarganegaraanIndonesiaAsingSubmit{&quot;props&quot;:{&quot;pageProps&quot;:{&quot;email&quot;:&quot;2@staging.com&quot;,&quot;password&quot;:&quot;H0g5Xt8m&quot;},&quot;__N_SSP&quot;:true},&quot;page&quot;:&quot;/login/login-token&quot;,&quot;query&quot;:{&quot;token&quot;:&quot;cXc5eEZvQVRLYXNIYkprRHN3UUNvcGFSWFl2aFltMjFxRldNTE4zSFY1az0=&quot;},&quot;buildId&quot;:&quot;0ynfNCiUGCujq2LOtIM-0&quot;,&quot;isFallback&quot;:false,&quot;gssp&quot;:true,&quot;scriptLoader&quot;:[]}Online Assessmentid(&quot;menu-Pendidikan-Terakhir&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible css-esi9ax&quot;]SD / MISMP / MTsSMA / SMK / MADiploma 1Diploma 2Diploma 3Diploma 4Strata 1Strata 2Strata 3</value>
+      <webElementGuid>5aeaf0a5-f5b1-45d9-9975-67a87fb1c20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)</value>
+      <webElementGuid>9ce3d020-46a0-4ca8-b7ac-062326511460</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//body[@id='body']</value>
+      <webElementGuid>28a59ab9-3830-406b-aa46-d9f62226745d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>922945d0-95c8-4ccb-a4d8-a54b59188677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[@id = 'body' and (text() = 'IDData PesertaSebelum mengerjakan tes dari kami, harap untuk mengisi beberapa informasi di bawah iniJenis KelaminPerempuanLaki-lakiTanggal Lahir12/12/2000Pendidikan TerakhirSD / MIKewarganegaraanIndonesiaAsingSubmit{&quot;props&quot;:{&quot;pageProps&quot;:{&quot;email&quot;:&quot;2@staging.com&quot;,&quot;password&quot;:&quot;H0g5Xt8m&quot;},&quot;__N_SSP&quot;:true},&quot;page&quot;:&quot;/login/login-token&quot;,&quot;query&quot;:{&quot;token&quot;:&quot;cXc5eEZvQVRLYXNIYkprRHN3UUNvcGFSWFl2aFltMjFxRldNTE4zSFY1az0=&quot;},&quot;buildId&quot;:&quot;0ynfNCiUGCujq2LOtIM-0&quot;,&quot;isFallback&quot;:false,&quot;gssp&quot;:true,&quot;scriptLoader&quot;:[]}Online Assessmentid(&quot;menu-Pendidikan-Terakhir&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible css-esi9ax&quot;]SD / MISMP / MTsSMA / SMK / MADiploma 1Diploma 2Diploma 3Diploma 4Strata 1Strata 2Strata 3' or . = 'IDData PesertaSebelum mengerjakan tes dari kami, harap untuk mengisi beberapa informasi di bawah iniJenis KelaminPerempuanLaki-lakiTanggal Lahir12/12/2000Pendidikan TerakhirSD / MIKewarganegaraanIndonesiaAsingSubmit{&quot;props&quot;:{&quot;pageProps&quot;:{&quot;email&quot;:&quot;2@staging.com&quot;,&quot;password&quot;:&quot;H0g5Xt8m&quot;},&quot;__N_SSP&quot;:true},&quot;page&quot;:&quot;/login/login-token&quot;,&quot;query&quot;:{&quot;token&quot;:&quot;cXc5eEZvQVRLYXNIYkprRHN3UUNvcGFSWFl2aFltMjFxRldNTE4zSFY1az0=&quot;},&quot;buildId&quot;:&quot;0ynfNCiUGCujq2LOtIM-0&quot;,&quot;isFallback&quot;:false,&quot;gssp&quot;:true,&quot;scriptLoader&quot;:[]}Online Assessmentid(&quot;menu-Pendidikan-Terakhir&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible css-esi9ax&quot;]SD / MISMP / MTsSMA / SMK / MADiploma 1Diploma 2Diploma 3Diploma 4Strata 1Strata 2Strata 3')]</value>
+      <webElementGuid>8b066044-fe2f-43a6-9370-a143d4bffa97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

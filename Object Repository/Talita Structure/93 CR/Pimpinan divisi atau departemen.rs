@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pimpinan divisi atau departemen</name>
+   <tag></tag>
+   <elementGuidId>0c8a9f0f-0bdf-4e76-a7c4-23c9bc11a97d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Dnd_border2__dxPu5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnd-container']/div/div/ul/div/li[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad248dd8-d960-439b-abba-80238d5a9fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Dnd_border2__dxPu5</value>
+      <webElementGuid>e912734c-cce5-4345-8bb9-80db5fd1e22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnd-container&quot;)/div[1]/div[@class=&quot;Dnd_container1__ygxR8&quot;]/ul[@class=&quot;Dnd_dragList__gQOY_&quot;]/div[1]/li[3]/div[@class=&quot;MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-1cy6rd&quot;]/div[@class=&quot;Dnd_border2__dxPu5&quot;]</value>
+      <webElementGuid>51bea266-68cc-4acd-b29b-ac11b6eabd83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnd-container']/div/div/ul/div/li[3]/div/div</value>
+      <webElementGuid>9cbf9c8b-b2ac-41cc-9887-58c85f8da481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div</value>
+      <webElementGuid>54c863fe-7ac3-487f-ad89-3bb5e7107435</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

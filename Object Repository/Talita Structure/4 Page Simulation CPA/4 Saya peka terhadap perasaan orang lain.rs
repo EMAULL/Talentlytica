@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4 Saya peka terhadap perasaan orang lain</name>
+   <tag></tag>
+   <elementGuidId>c728b904-4759-44d1-ae0e-28e5a13d61fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Dnd_border3__92m0q</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnd-container']/div/div/ul/div/li[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8c691d7-4364-48be-8774-472335c73ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Dnd_border3__92m0q</value>
+      <webElementGuid>317f4555-5723-4264-ac17-869f0860815a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnd-container&quot;)/div[1]/div[@class=&quot;Dnd_container1__ygxR8&quot;]/ul[@class=&quot;Dnd_dragList__gQOY_&quot;]/div[1]/li[4]/div[@class=&quot;MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-1cy6rd&quot;]/div[@class=&quot;Dnd_border3__92m0q&quot;]</value>
+      <webElementGuid>66722f9b-df54-4b1e-a6a5-ff4cfd40fb2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnd-container']/div/div/ul/div/li[4]/div/div</value>
+      <webElementGuid>332d33eb-7d3c-45d2-af83-ad6753c67acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div</value>
+      <webElementGuid>01171093-e977-4aef-ab2b-702ff2b804cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
