@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notif Tes telah berakhir</name>
+   <tag></tag>
+   <elementGuidId>b0ae0b78-4d2e-4d75-9c3e-4c64722b0b51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiContainer-root.MuiContainer-maxWidthSm.css-1m6pqln</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a421c9b-8d0e-449c-94e0-d4d74f779ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiContainer-root MuiContainer-maxWidthSm css-1m6pqln</value>
+      <webElementGuid>3fa3efd8-e2e4-4b9f-ae47-9248b5eba5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tes telah berakhirAnda boleh menutup halaman ini</value>
+      <webElementGuid>940dd7b9-0093-4edd-92bf-de7a02b76ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-1m6pqln&quot;]</value>
+      <webElementGuid>04150d4a-b5a6-4f0e-8451-8f97fe69ae85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div</value>
+      <webElementGuid>ae2576bf-8cce-4d85-ad1c-15b6ea0154d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div</value>
+      <webElementGuid>3db263c7-f159-435d-a0c3-7ce11afa69af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tes telah berakhirAnda boleh menutup halaman ini' or . = 'Tes telah berakhirAnda boleh menutup halaman ini')]</value>
+      <webElementGuid>ba90cfdc-9c89-47db-aa14-5084417a740f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -26,7 +26,7 @@ import org.openqa.selenium.By as By
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://stagingintegro.assessmentcenter.id/login/login-token?token=Tktvd3hwWmhMVTcvZHBXV0tabTVVZlE2MzN2ZFN3aWorTWZvU3pBUis5RT0=')
+WebUI.navigateToUrl('https://stagingintegro.assessmentcenter.id/login/login-token?token=QVlseGtFeEg3UDNjNDlTcmNYcHlYL0dpNENhVkZEczFRMW5UZGpGMGV6MD0=')
 
 WebDriver driver = DriverFactory.getWebDriver()
 
@@ -44,27 +44,9 @@ WebUI.click(findTestObject('Talita Structure/1 Page Dashboard/Button Mulai Dashb
 
 WebUI.click(findTestObject('Talita Structure/1 Page Dashboard/Button Lanjutkan Dashboard'), FailureHandling.OPTIONAL)
 
-WebUI.callTestCase(findTestCase('Talita/Karakter/Form Identitas'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Tata Tertib/CheckBox Tata Tertib Test'))
-
-WebUI.click(findTestObject('Tata Tertib/Button Lanjutkan'))
-
 WebUI.callTestCase(findTestCase('Talita/Karakter/Talita CPA'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Talita/Karakter/Talita CPB'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Talita/Karakter/Talita CFI'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Talita/Karakter/Talita CR'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Feedback/Bintang 5'))
-
-WebUI.setText(findTestObject('Feedback/Textarea Feedback'), 'Mantapp')
-
-WebUI.click(findTestObject('Feedback/Button Submit'))
-
-WebUI.verifyElementVisible(findTestObject(null))
-
-WebUI.closeBrowser()
 
